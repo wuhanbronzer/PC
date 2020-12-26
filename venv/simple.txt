@@ -1,0 +1,6 @@
+'''
+打印这行
+
+print('ss')'''
+>>> from fluent Python import factorial
+>>> factorial(5)
